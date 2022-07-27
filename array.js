@@ -10,6 +10,8 @@ const allUser = [
         id: '123',
         username: "santosh",
     },
+
+
     {
 
         id: "234",
@@ -46,7 +48,7 @@ const filteredUser = allUser.filter(allUser => {
 
 
 
-const wordCheck = ["test", "jump", "run"]
+const wordCheck = ["test", "jump", "runs"]
 
 const worldList = ["test", "test", "run", "test", "run", "hop", "cry", "love", 'test', 'run', "jump"]
 
